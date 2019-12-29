@@ -18,6 +18,7 @@
 
     <ItemGroup>
       <Compile Remove="obj\**" />
+      <Compile Remove="SomeTest.feature.cs" />
     </ItemGroup>
 
     <ItemGroup>
